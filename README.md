@@ -6,9 +6,8 @@ Welcome to my GitHub! I'm Victor, a computer engineering student at the Federal 
 ### 💻 I'm currently learning
 - Typescript
 - React Native
-- Swift
 
-### ⚡ Other technologies that I love working with
+### ⚡ Others technologies that I love working with
 - ReactJS
 - HTML & CSS
 - Javascript and Typescript

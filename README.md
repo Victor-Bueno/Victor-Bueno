@@ -3,15 +3,12 @@
 Welcome to my GitHub! I'm Victor, a computer engineering student at the Federal University of São Paulo (Brazil). Through self-study, enrolling in differents coding courses and work experiences, I am building a solid foundation in both web and mobile technologies and languages.
 
 ### 💻 I'm currently working with
-- Java
-- Spring
-- Hibernate
+- Backend: NodeJS, Apollo, Java, Spring, Hibernate
+- Frontend: ReactJS, Typescript, Javascript
 
 ### ⚡ Other technologies that I love to use
-- ReactJS
-- HTML & CSS
-- Typescript
 - React Native
+- Flutter
 
 ### ✔️ Goals for 2021
 - Finish my portfolio website

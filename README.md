@@ -23,3 +23,5 @@ Welcome to my GitHub! I'm Victor, a computer engineering student at the Federal 
 ### ☕ Get in touch
 - Send me an e-mail
 <br>
+
+![Snake animation](https://github.com/Victor-Bueno/Victor-Bueno/blob/output/github-contribution-grid-snake.svg)

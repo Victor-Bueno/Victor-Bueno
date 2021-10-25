@@ -17,11 +17,14 @@ Welcome to my GitHub! I'm Victor, a computer science student at the Federal Univ
 
 ### 🌴 Fun facts
 - My father was the one who got me into programming
-- I love music and games
+- I love books, music and games
 - I don't know how to whistle =P
 
 ### ☕ Get in touch
-- Send me an e-mail
+<div>  
+  <a href="https://www.linkedin.com/in/victor-bueno7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href = "mailto:victor.bueno0720@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ </div>
 <br>
 
 ![Snake animation](https://github.com/Victor-Bueno/Victor-Bueno/blob/output/github-contribution-grid-snake.svg)

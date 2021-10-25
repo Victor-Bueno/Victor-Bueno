@@ -7,6 +7,7 @@ Welcome to my GitHub! I'm Victor, a computer science student at the Federal Univ
 - Frontend: ReactJS, Typescript, Javascript
 
 ### ⚡ Other technologies that I love to use
+- NextJS
 - React Native
 - Flutter
 

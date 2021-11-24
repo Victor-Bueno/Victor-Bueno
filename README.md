@@ -1,4 +1,6 @@
-<img src= "https://github.com/Victor-Bueno/Victor-Bueno/blob/main/Banner.jpg"></img>
+<p align="center">
+  <img src= "https://github.com/Victor-Bueno/Victor-Bueno/blob/main/Banner.jpg"></img>
+</p>
 <br>
 Welcome to my GitHub! I'm Victor, a computer science student at the Federal University of São Paulo (Brazil). Through self-study, enrolling in differents coding courses and work experiences, I am building a solid foundation in both web and mobile technologies and languages.
 

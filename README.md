@@ -27,5 +27,3 @@ Welcome to my GitHub! I'm Victor, a computer science student at the Federal Univ
  <a href = "mailto:victor.bueno0720@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
 <br>
-
-![Snake animation](https://github.com/Victor-Bueno/Victor-Bueno/blob/output/github-contribution-grid-snake.svg)

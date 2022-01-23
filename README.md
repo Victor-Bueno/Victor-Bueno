@@ -2,7 +2,7 @@
   <img src= "https://github.com/Victor-Bueno/Victor-Bueno/blob/main/Banner.jpg"></img>
 </p>
 <br>
-Welcome to my GitHub! I'm Victor, a computer science student at the Federal University of São Paulo (Brazil). Through self-study, enrolling in differents coding courses and work experiences, I am building a solid foundation in both web and mobile technologies and languages.
+Welcome to my GitHub! I'm Victor, a computer science student at the Federal University of São Paulo (Brazil). Through self-study, enrolling in differents coding courses and work experiences, I am building a solid foundation in both front-end and back-end technologies and languages.
 
 ### 💻 I'm currently working with
 - Backend: NodeJS, Apollo, Java, Spring, Hibernate
@@ -13,7 +13,7 @@ Welcome to my GitHub! I'm Victor, a computer science student at the Federal Univ
 - React Native
 - Flutter
 
-### ✔️ Goals for 2021
+### ✔️ Goals for 2022
 - Finish my portfolio website
 - Create a blog to contribute with the community (people still do that? 😂)
 - Learn new programming languages and frameworks

@@ -5,22 +5,23 @@
 ## Hi there! Nice to see you here :)
 
 <p align="left" margin-left="8px">
-  Welcome to my GitHub! I'm Victor, a computer science student at the Federal University of São Paulo (Brazil). Through self-study, enrolling in differents coding courses and work experiences, I am building a solid foundation in both front-end and back-end technologies and languages.
+  Welcome to my GitHub! I'm Victor, a computer scientist in love with mobile programming. Through self-study, enrolling in different coding courses, and work experiences, I am building a solid foundation in Android development technologies and languages.
 </p>
 
-### 💻 I'm currently working wit
-- Backend: NodeJS, Apollo, Java, Spring, Hibernat
-- Frontend: ReactJS, Typescript, Javascript
+### 💻 I'm currently focusing on
+- Kotlin
+- Foundations of Android apps
+- Jetpack Compose
 
 ### ⚡ Other technologies that I love to use
-- NextJS
+- Typescript
 - React Native
-- Flutter
+- Next.js
 
-### ✔️ Goals for 2022
-- Finish my portfolio website
-- Create a blog to contribute with the community
-- Learn new programming languages and frameworks
+### ✔️ Goals for 2023
+- Get a successful app on Play Store
+- Post more articles on dev.to to contribute to the community
+- Learn more about mobile development architecture
 
 ### 🌴 Fun facts
 - My father was the one who got me into programming

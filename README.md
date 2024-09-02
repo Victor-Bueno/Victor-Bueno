@@ -1,27 +1,21 @@
-<img align="right" width="480" height="900" right="0px" top="32px" src="https://github.com/Victor-Bueno/Victor-Bueno/blob/main/poster.png">
-
-<br>
-
 ## Hi there! Nice to see you here :)
 
+<img align="right" width="400" height="700" src="https://github.com/Victor-Bueno/Victor-Bueno/blob/main/poster.png">
+
 <p align="left" margin-left="8px">
-  Welcome to my GitHub! I'm Victor, a computer scientist in love with mobile programming. Through self-study, enrolling in different coding courses, and work experiences, I am building a solid foundation in Android development technologies and languages.
+  Welcome to my GitHub! I'm Victor, a computer scientist in love with tech and programming. Through self-study, enrolling in different coding courses, and work experiences, I am building a solid foundation both in back-end and front-end technologies & languages.
 </p>
 
+### 🌐 My portfolio
+Visit my portfolio clicking here: [Victor Bueno](https://victorbueno.vercel.app)
+
 ### 💻 I'm currently focusing on
-- Kotlin
-- Foundations of Android apps
-- Jetpack Compose
+- Next.js & Typescript
+- SpringBoot & Java
 
 ### ⚡ Other technologies that I love to use
-- Typescript
 - React Native
-- Next.js
-
-### ✔️ Goals for 2023
-- Get a successful app on Play Store
-- Post more articles on dev.to to contribute to the community
-- Learn more about mobile development architecture
+- Kotlin
 
 ### 🌴 Fun facts
 - My father was the one who got me into programming
